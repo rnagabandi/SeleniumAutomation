@@ -1,0 +1,17 @@
+<suite name="Test">
+
+	<parameter name="browser" value="chrome"/>
+
+	<test name="Test" paralell="true">
+	
+	
+	<classes>
+		
+		<class name="com.test.java.RegistrationTest" />	
+		
+	</classes>
+	
+	</test>
+
+
+</suite>
